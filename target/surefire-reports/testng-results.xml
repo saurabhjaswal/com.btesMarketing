@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2876" started-at="2020-02-26T15:45:09 IST" finished-at="2020-02-26T15:45:12 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2876" started-at="2020-02-26T15:45:09 IST" finished-at="2020-02-26T15:45:12 IST">
+      <class name="Mechanical.Logintest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Mechanical.Logintest@548b7f67]" name="launch" is-config="true" duration-ms="7528" started-at="2020-02-26T15:45:01 IST" finished-at="2020-02-26T15:45:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="log()[pri:0, instance:Mechanical.Logintest@548b7f67]" name="log" duration-ms="2841" started-at="2020-02-26T15:45:09 IST" finished-at="2020-02-26T15:45:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method status="PASS" signature="driver_close()[pri:0, instance:Mechanical.Logintest@548b7f67]" name="driver_close" is-config="true" duration-ms="87" started-at="2020-02-26T15:45:12 IST" finished-at="2020-02-26T15:45:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver_close -->
+      </class> <!-- Mechanical.Logintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
